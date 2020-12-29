@@ -12,4 +12,4 @@
 
 **服务治理**
 
-[弹性扩容](https://www.yuque.com/docs/share/587d9297-c5c8-4db0-a005-09ca6bea067c?# 《弹性扩容》)
+[弹性扩容](https://www.yuque.com/docs/share/587d9297-c5c8-4db0-a005-09ca6bea067c?# )
