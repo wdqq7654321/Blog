@@ -9,3 +9,7 @@
 **基础**
 
 [二叉树的前序、中序、后序遍历](https://www.yuque.com/docs/share/1534755b-e099-4a7c-ad7a-f7be21f35602?# )
+
+**服务治理**
+
+[弹性扩容](https://www.yuque.com/docs/share/587d9297-c5c8-4db0-a005-09ca6bea067c?# 《弹性扩容》)
