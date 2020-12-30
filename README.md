@@ -12,4 +12,8 @@
 
 **服务治理**
 
+[热点应对](https://www.yuque.com/docs/share/9dd7e0a0-fb77-4c49-848f-67bbc2b049b2?# )
+
+[数据决策](https://www.yuque.com/docs/share/350b600a-b58e-455f-a7d2-986c049ac1f9?# )
+
 [弹性扩容](https://www.yuque.com/docs/share/587d9297-c5c8-4db0-a005-09ca6bea067c?# )
