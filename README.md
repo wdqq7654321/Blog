@@ -31,3 +31,5 @@
 **项目架构**
 
 [一直播网络架构图](https://www.yuque.com/docs/share/7e6a7dcc-f41c-41fb-baef-515827f823ad?#)
+
+[Netty Reactor主从多线程模型架构](https://www.yuque.com/docs/share/6def0bdf-2241-4c60-9eab-8b14d613e2a1?#)
