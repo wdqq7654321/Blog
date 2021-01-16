@@ -23,3 +23,6 @@
 [数据决策（思维导图）](https://www.yuque.com/docs/share/350b600a-b58e-455f-a7d2-986c049ac1f9?# )
 
 [弹性扩容（思维导图）](https://www.yuque.com/docs/share/587d9297-c5c8-4db0-a005-09ca6bea067c?# )
+
+**项目架构**
+[一直播网络架构图](https://www.yuque.com/docs/share/7e6a7dcc-f41c-41fb-baef-515827f823ad?#)
